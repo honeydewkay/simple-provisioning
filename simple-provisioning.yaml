@@ -1,5 +1,4 @@
 ---
-
 - name: simple-provisioning
   hosts: localhost          
   connection: local         
